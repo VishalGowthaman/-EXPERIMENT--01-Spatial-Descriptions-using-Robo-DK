@@ -1,4 +1,4 @@
-## -EXPERIMENT--01-Spatial-Descriptions-using-Robo-DK
+## EXPERIMENT-01
 
 ## AIM: 
 To understand the Robot DK software for spatial descriptions. 
