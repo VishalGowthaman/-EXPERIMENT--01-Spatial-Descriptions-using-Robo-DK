@@ -1,4 +1,4 @@
-## -EXPERIMENT-01
+## EXPERIMENT-01
 
 ## AIM: 
 To understand the Robot DK software for spatial descriptions. 
